@@ -1,4 +1,4 @@
-[3:42 p. m., 2/3/2026] Sandyy^^: # 🌟 Mi Primer Viaje en el Desarrollo
+# 🌟 Mi Primer Viaje en el Desarrollo
 
 ¡Hola! Soy *Aide* y este es mi primer repositorio oficial gestionado desde *VS Code*. 🚀
 
@@ -36,3 +36,4 @@
 
 ### 🪴 Notas del proyecto:
 > "Programar es como cuidar una planta: requiere paciencia, práctica y un poquito de agua (o café) todos los días, en realidad no progamo pero gemini me dijo que hiciera esto" ☕🌺
+
